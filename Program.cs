@@ -2,9 +2,7 @@
 /*
 Exercises C# StackMatrixElements
 Write program that read a matrix from console and print:
-•	Count of rows
-•	Count of columns
-•	Sum of all matrix elements
+•	Count of rows •	Count of columns •	Sum of all matrix elements
 Date: 30/10/2020
 */
 namespace SumMatrixElements
